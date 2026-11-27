@@ -9,7 +9,7 @@ Image classification and object detection with deep learning: CNNs designed from
 
 Coursework for Computer Vision, BSCS at Air University (Kharian Campus), Fall 2026.
 
-> Classical OpenCV work (filtering, Hough, SIFT, stereo, optical flow) is in the companion repo: [classical-computer-vision-opencv](https://github.com/sarim0704/cv).
+> Classical OpenCV work (filtering, Hough, SIFT, stereo, optical flow) is in the companion repo: [classical-computer-vision-opencv](https://github.com/sarim0704/classical-computer-vision-opencv).
 
 ## Projects
 
