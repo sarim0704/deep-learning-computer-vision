@@ -41,8 +41,8 @@ Open any notebook on GitHub and click **Open in Colab**. Use a GPU runtime (*Run
 To run locally:
 
 ```bash
-git clone https://github.com/sarim0704/cv2.git
-cd cv2
+git clone https://github.com/sarim0704/deep-learning-computer-vision.git
+cd deep-learning-computer-vision
 pip install -r requirements.txt
 jupyter notebook
 ```
